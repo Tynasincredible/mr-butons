@@ -1,4 +1,4 @@
-
+this project is make'd for counting steps(it isn't complete yet)
 > Open this page at [https://tynasincredible.github.io/mr-butons/](https://tynasincredible.github.io/mr-butons/)
 
 ## Use as Extension
